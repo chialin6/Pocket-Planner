@@ -8,6 +8,8 @@ In today’s society, many quantify personal success with awards and achievement
 
 Our proposed solution, Pocket Planner, transforms bullet journaling into a hybrid digital and physical experience with a smart journal and an app. This maintains the same efficiency as bullet journaling but removes the restriction of a paper journal, making it portable and convenient. By providing people with semi-automated tracking, clear data visualization, and different methods to record their emotions, Pocket Planner can personalize bullet journaling to make it more efficient, empowering, and accessible to all.
 
+[1] *National Alliance on Mental Illness, “Mental Health By The Numbers”, 2019. [Online]. Available: https://www.nami.org/learn-more/mental-health-by-the-numbers. [Accessed: 14-Feb-2020]*
+
 
 ## Design Research Goals, Methods, and Participants
 We conducted our design research through semi-structured interviews with people who currently journal or used to journal but quit, diary studies with people who do not journal at all, and contextual inquiries with people who used to journal but have adapted their methods. Our goal was to understand how people viewed bullet journaling and how they practiced self-reflection and daily planning.
@@ -82,6 +84,7 @@ Figure 2 shows an **app**, which aims to make bullet journaling more accessible 
 Figure 3 shows a **Sync Station**, which provides a physical space to reflect, emphasizing mindfulness and accessibility over efficiency and convenience. It is a physical desk that automatically converts written lists and papers into PDF files and stores them in the devices on the station. Using OCR, it can also decode messily scrawled notes into neatly hand-written files.  Files across devices can be synced together and displayed in one database, making it easy to access information in one place. It provides participants a space to sit down and unwind, synchronize their files, visualize their progress towards their goals and habits, and reflect upon their day.
 
 ## Selected Design and Storyboards
+### Selected Design
 We combined the ideas presented in the Smart Journal (Design 1) and app (Design 2) sketches to determine our design direction, and our focused tasks are taking time to be mindful and writing down tasks and thoughts (Task 3) and accessing organizational tools everywhere and across multiple devices (Task 6). 
 
 We chose a hybrid design, a smart journal that is compatible with a multi-platform app. This provides people with efficiency and convenience while still allowing for a tactile experience and interaction. Our research participants emphasized the importance of writing things down, but also mentioned the significant overhead required for tracking and staying motivated to achieve their goals. A physical form allows people to slow down and visualize their schedules, making it easier to say no to commitments they cannot take on. Especially with many journalists facing busy schedules, we hope to reduce the amount of procedural and mindless tasks that are often associated with tracking, to both encourage participants to find time to practice mindfulness in their routines, and to make journaling accessible on any platform. We hope that our Pocket Planner design will empower people to be more mindful of their mental health.
