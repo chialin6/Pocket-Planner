@@ -3,6 +3,8 @@
 
 *Journal anywhere, any way you want* 
 
+by Lucy Jiang, Natasya Juliette and Chia-Lin Liu
+
 ## Problem and Solution Overview
 In today’s society, many quantify personal success with awards and achievements instead of happiness and health. Such a mindset causes people to prioritize their work over all else, and many people neglect both their physical and mental health - according to the National Alliance on Mental Illness, “1 in 5 U.S. adults experience mental illness each year” [1]. Bullet journaling is an existing method for people to manage their schedules or thoughts, and focuses on improving efficiency and mindfulness. However, it is inconvenient, time-consuming, and intimidating. It currently exists as a physical form where people can spend hours designing their journal spreads, only to abandon them after infrequent use. The online journaling community can also be intimidating for those with limited art experience, as many journalists use social media to share their extravagant spreads.
 
