@@ -65,13 +65,19 @@ While bullet journals are intended to be a centralized organization tool, our de
 ## Proposed Design Sketches
 ![Smart Journal](design1.png)
 
+*Figure 1: Smart Journal*
+
 Figure 1 shows a **Smart Journal**, which retains the physical pen-and-paper interaction from a journal while providing accessibility and data visualization through the cloud. Using this IoT device, journalists can write down their tasks, plans, reflections, and trackers on pre-designed templates. Using OCR, the journal ports information to the cloud and automatically processes that information to create a graphical visualization of their monthly data. The data is displayed on a page at the beginning of each monthly spread so that people can access all of their information in one journal. 
 
 ![app](design2.png)
 
+*Figure 2: App*
+
 Figure 2 shows an **app**, which aims to make bullet journaling more accessible across all devices and to greatly reduce the overhead accompanying tracking. It is compatible between different devices including smartphones, smartwatches, and computers; it syncs when connected to WiFi. Journalists can organize their plans and tasks, reflect on their emotions, track their desired activities, and see the graphical visualization of their data on any of their devices. By incorporating smartwatches and smartphones, it also automates parts of tracking, such as step count and sleep time, making bullet journalling less intimidating, complex, and time-consuming. 
 
 ![Sync Station](design3.png)
+
+*Figure 3: Sync Station*
 
 Figure 3 shows a **Sync Station**, which provides a physical space to reflect, emphasizing mindfulness and accessibility over efficiency and convenience. It is a physical desk that automatically converts written lists and papers into PDF files and stores them in the devices on the station. Using OCR, it can also decode messily scrawled notes into neatly hand-written files.  Files across devices can be synced together and displayed in one database, making it easy to access information in one place. It provides participants a space to sit down and unwind, synchronize their files, visualize their progress towards their goals and habits, and reflect upon their day.
 
@@ -79,3 +85,10 @@ Figure 3 shows a **Sync Station**, which provides a physical space to reflect, e
 We combined the ideas presented in the Smart Journal (Design 1) and app (Design 2) sketches to determine our design direction, and our focused tasks are taking time to be mindful and writing down tasks and thoughts (Task 3) and accessing organizational tools everywhere and across multiple devices (Task 6). 
 
 We chose a hybrid design, a smart journal that is compatible with a multi-platform app. This provides people with efficiency and convenience while still allowing for a tactile experience and interaction. Our research participants emphasized the importance of writing things down, but also mentioned the significant overhead required for tracking and staying motivated to achieve their goals. A physical form allows people to slow down and visualize their schedules, making it easier to say no to commitments they cannot take on. Especially with many journalists facing busy schedules, we hope to reduce the amount of procedural and mindless tasks that are often associated with tracking, to both encourage participants to find time to practice mindfulness in their routines, and to make journaling accessible on any platform. We hope that our Pocket Planner design will empower people to be more mindful of their mental health.
+
+### Storyboards
+#### Accessing organizational tools everywhere and across multiple devices
+![accessibility](storyboard1.png)
+
+#### Taking time to be mindful and to write down tasks and thoughts
+![mindful](storyboard2.png)
