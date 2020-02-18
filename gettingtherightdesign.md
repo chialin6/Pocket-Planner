@@ -3,14 +3,14 @@
 
 *Journal anywhere, any way you want* 
 
-by Lucy Jiang, Natasya Juliette and Chia-Lin Liu
+by Lucy Jiang, Natasya Juliette, and Chia-Lin Liu
 
 ## Problem and Solution Overview
 In today’s society, many quantify personal success with awards and achievements instead of happiness and health. Such a mindset causes people to prioritize their work over all else, and many people neglect both their physical and mental health - according to the National Alliance on Mental Illness, “1 in 5 U.S. adults experience mental illness each year” [1]. Bullet journaling is an existing method for people to manage their schedules or thoughts, and focuses on improving efficiency and mindfulness. However, it is inconvenient, time-consuming, and intimidating. It currently exists as a physical form where people can spend hours designing their journal spreads, only to abandon them after infrequent use. The online journaling community can also be intimidating for those with limited art experience, as many journalists use social media to share their extravagant spreads.
 
 Our proposed solution, Pocket Planner, transforms bullet journaling into a hybrid digital and physical experience with a smart journal and an app. This maintains the same efficiency as bullet journaling but removes the restriction of a paper journal, making it portable and convenient. By providing people with semi-automated tracking, clear data visualization, and different methods to record their emotions, Pocket Planner can personalize bullet journaling to make it more efficient, empowering, and accessible to all.
 
-[1] *National Alliance on Mental Illness, “Mental Health By The Numbers”, 2019. [Online]. Available: https://www.nami.org/learn-more/mental-health-by-the-numbers. [Accessed: 14-Feb-2020]*
+[1] *National Alliance on Mental Illness, “Mental Health By The Numbers”, 2019. Online. Available: https://www.nami.org/learn-more/mental-health-by-the-numbers. Accessed: 14-Feb-2020*
 
 
 ## Design Research Goals, Methods, and Participants
